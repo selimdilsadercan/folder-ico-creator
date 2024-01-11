@@ -7,5 +7,4 @@
 - [x] add /.prettierrc
 
 - [x] "npx shadcn-ui@latest init" to initialize shadcn
-- [ ] html, body, :root { height: 100% } thing at app/globals.css
-
+- [x] html, body, :root { height: 100% } thing at app/globals.css
