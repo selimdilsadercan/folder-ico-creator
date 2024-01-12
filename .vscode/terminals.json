@@ -1,0 +1,21 @@
+{
+  "autorun": true,
+  "terminals": [
+    {
+      "name": "commands",
+      "execute": true,
+      "command": "git fetch"
+    },
+    {
+      "name": "site",
+      "execute": false,
+      "command": "npm run dev",
+      "persistent": true
+    },
+    {
+      "name": "prisma",
+      "execute": false,
+      "command": "npx prisma studio"
+    }
+  ]
+}
